@@ -1,0 +1,26 @@
+<annotation>
+	<folder>500</folder>
+	<filename>1411.png</filename>
+	<path>C:\Users\sdh17\Documents\NN\500\1411.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aspa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>40</ymin>
+			<xmax>438</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>
