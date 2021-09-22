@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>k4_466.png</filename>
+	<path>/media/aspa2/Data/training_images/All/k4_466.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aspa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>281</ymin>
+			<xmax>390</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

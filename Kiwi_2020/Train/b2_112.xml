@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>b2_112.png</filename>
+	<path>/media/aspa2/Data/training_images/All/b2_112.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aspa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>269</ymin>
+			<xmax>271</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>
