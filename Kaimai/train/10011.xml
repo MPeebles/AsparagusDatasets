@@ -1,0 +1,14 @@
+<annotation>
+	<folder>train</folder>
+	<filename>10011.png</filename>
+	<path>/home/aspa2/Neural_Networks/kaimai_simplified/Images/train/10011.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

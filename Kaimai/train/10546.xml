@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>10546.png</filename>
+	<path>/home/aspa2/Neural_Networks/kaimai_simplified/Images/train/10546.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aspa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>434</ymin>
+			<xmax>277</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>
