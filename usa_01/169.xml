@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nnusa</folder>
+	<filename>169.png</filename>
+	<path>/home/aspa2/nnusa/169.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aspa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>286</ymin>
+			<xmax>293</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
